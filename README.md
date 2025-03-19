@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **< Embedded C/C++ >**  
 - 👯 I’m looking to collaborate on **< no >**  
 - 📫 How to reach me: **< nguyengochai2004@gmail.com >**  
-- ⚡ Fun fact: **I love coding and coffee ☕**  
+- ⚡ Fun fact: **Tôi yêu lập trình**  
 
 ---
 
