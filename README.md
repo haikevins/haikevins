@@ -61,6 +61,54 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" />
 </div>
 
+## 🐍 Con rắn săn mồi đóng góp
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<details>
+  <summary>🔧 Cài đặt hình động con rắn</summary>
+  
+  1. Tạo file `.github/workflows/snake.yml` trong repository GitHub của bạn với nội dung sau:
+  ```yaml
+  name: Generate Snake Animation
+
+  on:
+    schedule:
+      - cron: "0 0 * * *" # chạy mỗi ngày vào lúc 00:00
+    workflow_dispatch:
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+        - name: Push to output branch
+          uses: crazy-max/ghaction-github-pages@v2.6.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ```
+  2. Tạo nhánh `output` trong repository của bạn
+  3. Đảm bảo GitHub Actions được bật trong repository
+  4. Thay thế `yourusername` trong URL hình ảnh bằng tên người dùng GitHub của bạn
+</details>
+
 ### 🎵 Đang nghe
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=default" />
