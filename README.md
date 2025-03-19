@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **< your projects >**  
-- 🌱 I’m currently learning **< technologies you are learning >**  
-- 👯 I’m looking to collaborate on **< interesting projects >**  
+- 🔭 I’m currently working on **< Hệ thống quản lý thư viện >**  
+- 🌱 I’m currently learning **< Embedded C/C++ >**  
+- 👯 I’m looking to collaborate on **< no >**  
 - 📫 How to reach me: **< nguyengochai2004@gmail.com >**  
 - ⚡ Fun fact: **I love coding and coffee ☕**  
 
