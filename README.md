@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm < Your Name > 👋</h1>
+<h1 align="center">Hi there, I'm HaiKevins 👋</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -12,17 +12,17 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **< your projects >**  
-- 🌱 I’m currently learning **< technologies you are learning >**  
-- 👯 I’m looking to collaborate on **< interesting projects >**  
-- 📫 How to reach me: **< your email or social links >**  
-- ⚡ Fun fact: **I love coding and coffee ☕**  
+- 🔭 I’m currently working on **< Hệ thống quản lý thư viện >**  
+- 🌱 I’m currently learning **< Embedded C/C++ >**  
+- 👯 I’m looking to collaborate on **< no >**  
+- 📫 How to reach me: **< nguyengochai2004@gmail.com >**  
+- ⚡ Fun fact: **I love coding**  
 
 ---
 
 ## 🏠 Where I Live & Study  
-- 🏡 Living in: **< Tên thành phố, quốc gia >**  
-- 🎓 Studying at: **< Tên trường đại học >**  
+- 🏡 Living in: **< Hà Nội >**  
+- 🎓 Studying at: **< PTIT - Học viện Công Nghệ Bưu Chính Viễn Thông >**  
 
 ## 🛠 Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:your-email@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.github.com/your-github-username" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.github.com/haikevins" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
