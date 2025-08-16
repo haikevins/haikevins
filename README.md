@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Hệ thống quản lý thư viện**  
+- 🔭 Currently working on **Embedded Linux**  
 - 🌱 Learning **Embedded C / C++**  
 - 👯 Open to collaboration: **No for now**  
 - 📫 Reach me: **[nguyengochai2004@gmail.com](mailto:nguyengochai2004@gmail.com)**  
