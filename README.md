@@ -29,15 +29,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical" width="48%">
+</p>
+
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
