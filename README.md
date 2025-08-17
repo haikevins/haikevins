@@ -64,13 +64,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haikevins&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
