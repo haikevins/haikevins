@@ -58,10 +58,13 @@
 ## 📈 Contribution Graph  
 
 <div align="center" style="display: flex; gap: 10px;">
-
   <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=react-dark&bg_color=20232a&hide_border=true" width="80%" height="80%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=radical&bg_color=20232a&hide_border=true" width="100%" height="100%" style="border-radius: 8px;">
   </div>
+</div>
+
+<div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="100%" height="100%" style="border-radius: 8px;">
 </div>
 
 ---
