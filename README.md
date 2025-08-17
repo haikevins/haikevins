@@ -35,17 +35,29 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="32%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="32%">
-</p>
+
+<div align="center" style="display: flex; gap: 10px;">
+
+  <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="80%" height="80%">
+  </div>
+
+  <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="80%" height="80%">
+  </div>
+
+  <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="80%" height="80%">
+  </div>
+
+</div>
+
 
 ---
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
 </p>
 
 ---
