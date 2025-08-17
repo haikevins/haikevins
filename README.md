@@ -81,7 +81,7 @@
 
 ## 🎵 Spotify Now Playing  
 <p align="center">
-  <img src="https://open.spotify.com/#_=_&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ok3mparh7frcvqp6yq6mvi2rei&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true" />
 </p>
 
 ---
