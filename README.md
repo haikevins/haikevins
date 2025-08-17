@@ -32,10 +32,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="32%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="32%" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="32%" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="32%" height="200">
 </p>
+
 
 
 ---
