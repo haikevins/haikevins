@@ -47,7 +47,6 @@
 
 </div>
 
-
 ---
 
 ## 🌐 Connect with Me  
@@ -65,4 +64,7 @@
 
 ---
 
-⭐ **If you like my work, feel free to ⭐ this repo!** ⭐
+<p align="center">
+  <strong>⭐ **If you like my work, feel free to ⭐ this repo!** ⭐</strong>
+</p>
+
