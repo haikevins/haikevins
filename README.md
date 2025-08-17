@@ -59,7 +59,7 @@
 
 <div align="center" style="display: flex; gap: 10px;">
   <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=radical&bg_color=20232a&hide_border=true&font_size=20" width="80%" height="80%" style="border-radius: 8px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=radical&bg_color=20232a&hide_border=true" width="80%" height="80%" style="border-radius: 8px;">
   </div>
 </div>
 
