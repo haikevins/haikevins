@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 About Me  
-- 📫 Reach me: **[nguyengochai2004@gmail.com](mailto:nguyengochai2004@gmail.com)**  
 - ⚡ Fun fact: **I love embedded**  
 
 ---
