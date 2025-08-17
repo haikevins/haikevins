@@ -63,10 +63,6 @@
   </div>
 </div>
 
-<div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="100%" height="100%" style="border-radius: 8px;">
-</div>
-
 ---
 
 ## 🐍 Contribution Snake  
