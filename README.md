@@ -52,18 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/haikevins/awesome-embedded">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikevins&repo=awesome-embedded&theme=radical" />
-  </a>
-  <a href="https://github.com/haikevins/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikevins&repo=another-project&theme=radical" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
