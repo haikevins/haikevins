@@ -65,13 +65,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/haikevins/haikevins/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
