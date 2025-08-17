@@ -70,7 +70,7 @@
   <a href="https://www.youtube.com/@nguyenngochai24" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/hai.nguyenngoc.2004/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
