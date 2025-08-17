@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 - 📫 Reach me: **[nguyengochai2004@gmail.com](mailto:nguyengochai2004@gmail.com)**  
-- ⚡ Fun fact: **I love coding and electronics**  
+- ⚡ Fun fact: **I love embedded**  
 
 ---
 
@@ -30,14 +30,22 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="48%">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="48%">
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" />
+    </td>
+  </tr>
+</table>
 
 ---
 
