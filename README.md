@@ -72,20 +72,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haikevins&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎵 Spotify Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ok3mparh7frcvqp6yq6mvi2rei&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
