@@ -1,17 +1,17 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Hi,%20I'm%20Nguyen%20Ngoc%20Hai%20&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Hi,%20I'm%20Nguyen%20Ngoc%20Hai%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;C%2FC%2B%2B+Developer;Always+Learning+New+Things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;C%2FC%2B%2B+Developer;Always+Learning+New+Things+✨" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-- ⚡ Fun fact: **I love embedded**  
+- ⚡ Fun fact: **I love embedded systems**  
 
 ---
 
@@ -22,38 +22,51 @@
 ---
 
 ## 🛠 Tech Stack  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Keil](https://img.shields.io/badge/Keil-39457E?style=for-the-badge&logo=keil&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" width="48"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="48"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="48"/></a>
+  <a href="https://www.keil.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="48"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-
-<div align="center" style="display: flex; gap: 10px;">
-
-  <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="100%" height="100%">
-  </div>
-
-  <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="80%" height="80%">
-  </div>
-
-  <div style="flex: 1; border: 2px solid #ff69b4; border-radius: 10px; padding: 5px; height: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="80%" height="80%">
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haikevins&show_icons=true&theme=radical&cache_seconds=1800" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikevins&theme=radical" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikevins&layout=compact&theme=radical&cache_seconds=1800" width="32%">
+</p>
 
 ---
- 
+
 ## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikevins&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/haikevins/haikevins/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haikevins&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎵 Spotify Now Playing  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true" />
 </p>
 
 ---
