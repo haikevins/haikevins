@@ -17,7 +17,7 @@
 ---
 
 ## 🏠 Location & Education  
-- 🏡 Living in **Ha Noi, Vietnam**  
+- 🏡 Living in **Ha Noi - Vietnam**  
 - 🎓 Studying at **PTIT - Posts and Telecom Institute of Technology**  
 
 ---
