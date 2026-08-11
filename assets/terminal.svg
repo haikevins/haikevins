@@ -1,8 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="900"
-  height="500"
-  viewBox="0 0 900 500"
+  height="550"
+  viewBox="0 0 900 550"
 >
   <style>
     .terminal {
@@ -31,49 +31,82 @@
 
   <rect
     width="900"
-    height="500"
+    height="550"
     rx="10"
     fill="#300a24"
   />
 
-  <!-- Command: whoami -->
+  <!-- Line 1 -->
   <text x="24" y="42" class="terminal">
     <tspan class="user">hai@ubuntu:</tspan>
     <tspan class="command">~$ whoami</tspan>
   </text>
 
-  <text x="24" y="76" class="terminal output">
+  <!-- Line 2 -->
+  <text x="24" y="78" class="terminal output">
     Nguyen Ngoc Hai
   </text>
 
-  <text x="24" y="106" class="terminal muted">
+  <!-- Line 3 -->
+  <text x="24" y="114" class="terminal muted">
     Embedded Software enthusiast from Vietnam.
   </text>
 
-  <!-- Command: about me -->
-  <text x="24" y="152" class="terminal">
+  <!-- Line 4 -->
+  <text x="24" y="150" class="terminal">
     <tspan class="user">hai@ubuntu:</tspan>
     <tspan class="command">~$ cat about-me.txt</tspan>
   </text>
 
-  <text x="24" y="188" class="terminal output">
-    <tspan x="24" dy="0">• Studying at Posts and Telecommunications Institute of Technology — PTIT</tspan>
-    <tspan x="24" dy="30">• Interested in Embedded Software and Firmware Development</tspan>
-    <tspan x="24" dy="30">• Working with STM32, ESP32, Raspberry Pi and Beagle Bone</tspan>
-    <tspan x="24" dy="30">• Learning Bare-metal Programming, RTOS and Embedded Linux</tspan>
-    <tspan x="24" dy="30">• Developing embedded projects and improving C/C++ skills</tspan>
+  <!-- Line 5 -->
+  <text x="24" y="186" class="terminal output">
+    • Studying at Posts and Telecommunications Institute of Technology — PTIT
   </text>
 
-  <!-- Command: technologies -->
-  <text x="24" y="370" class="terminal">
+  <!-- Line 6 -->
+  <text x="24" y="222" class="terminal output">
+    • Interested in Embedded Software and Firmware Development
+  </text>
+
+  <!-- Line 7 -->
+  <text x="24" y="258" class="terminal output">
+    • Working with STM32, ESP32, Raspberry Pi and BeagleBone
+  </text>
+
+  <!-- Line 8 -->
+  <text x="24" y="294" class="terminal output">
+    • Learning Bare-metal Programming, RTOS and Embedded Linux
+  </text>
+
+  <!-- Line 9 -->
+  <text x="24" y="330" class="terminal output">
+    • Developing embedded projects and improving C/C++ skills
+  </text>
+
+  <!-- Line 10 -->
+  <text x="24" y="366" class="terminal">
     <tspan class="user">hai@ubuntu:</tspan>
     <tspan class="command">~$ cat technologies.txt</tspan>
   </text>
 
-  <text x="24" y="406" class="terminal output">
-    <tspan x="24" dy="0">• Languages: C/C++, Embedded C</tspan>
-    <tspan x="24" dy="28">• MCU/RTOS: STM32F103 (Cortex-M3, Bare-metal), ESP32, FreeRTOS</tspan>
-    <tspan x="24" dy="28">• Protocols: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa</tspan>
-    <tspan x="24" dy="28">• IDEs: STM32CubeIDE, Keil Uvision, VS Code</tspan>
+  <!-- Line 11 -->
+  <text x="24" y="402" class="terminal output">
+    • Languages: C/C++, Embedded C
   </text>
+
+  <!-- Line 12 -->
+  <text x="24" y="438" class="terminal output">
+    • MCU/RTOS: STM32F103 (Cortex-M3, Bare-metal), ESP32, FreeRTOS
+  </text>
+
+  <!-- Line 13 -->
+  <text x="24" y="474" class="terminal output">
+    • Protocols: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa
+  </text>
+
+  <!-- Line 14 -->
+  <text x="24" y="510" class="terminal output">
+    • IDEs: STM32CubeIDE, Keil Uvision, VS Code
+  </text>
+
 </svg>
