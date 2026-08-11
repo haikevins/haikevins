@@ -1,0 +1,79 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="900"
+  height="500"
+  viewBox="0 0 900 500"
+>
+  <style>
+    .terminal {
+      font-family: "Ubuntu Mono", "Cascadia Mono", "DejaVu Sans Mono", monospace;
+      font-size: 18px;
+    }
+
+    .user {
+      fill: #26a269;
+      font-weight: 700;
+    }
+
+    .command {
+      fill: #12488b;
+      font-weight: 700;
+    }
+
+    .output {
+      fill: #f6f5f4;
+    }
+
+    .muted {
+      fill: #deddda;
+    }
+  </style>
+
+  <rect
+    width="900"
+    height="500"
+    rx="10"
+    fill="#300a24"
+  />
+
+  <!-- Command: whoami -->
+  <text x="24" y="42" class="terminal">
+    <tspan class="user">hai@ubuntu:</tspan>
+    <tspan class="command">~$ whoami</tspan>
+  </text>
+
+  <text x="24" y="76" class="terminal output">
+    Nguyen Ngoc Hai
+  </text>
+
+  <text x="24" y="106" class="terminal muted">
+    Embedded Software enthusiast from Vietnam.
+  </text>
+
+  <!-- Command: about me -->
+  <text x="24" y="152" class="terminal">
+    <tspan class="user">hai@ubuntu:</tspan>
+    <tspan class="command">~$ cat about-me.txt</tspan>
+  </text>
+
+  <text x="24" y="188" class="terminal output">
+    <tspan x="24" dy="0">• Studying at Posts and Telecommunications Institute of Technology — PTIT</tspan>
+    <tspan x="24" dy="30">• Interested in Embedded Software and Firmware Development</tspan>
+    <tspan x="24" dy="30">• Working with STM32, ESP32, Raspberry Pi and Beagle Bone</tspan>
+    <tspan x="24" dy="30">• Learning Bare-metal Programming, RTOS and Embedded Linux</tspan>
+    <tspan x="24" dy="30">• Developing embedded projects and improving C/C++ skills</tspan>
+  </text>
+
+  <!-- Command: technologies -->
+  <text x="24" y="370" class="terminal">
+    <tspan class="user">hai@ubuntu:</tspan>
+    <tspan class="command">~$ cat technologies.txt</tspan>
+  </text>
+
+  <text x="24" y="406" class="terminal output">
+    <tspan x="24" dy="0">• Languages: C/C++, Embedded C</tspan>
+    <tspan x="24" dy="28">• MCU/RTOS: STM32F103 (Cortex-M3, Bare-metal), ESP32, FreeRTOS</tspan>
+    <tspan x="24" dy="28">• Protocols: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa</tspan>
+    <tspan x="24" dy="28">• IDEs: STM32CubeIDE, Keil Uvision, VS Code</tspan>
+  </text>
+</svg>
