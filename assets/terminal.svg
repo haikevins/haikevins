@@ -49,7 +49,7 @@
 
   <!-- Line 3 -->
   <text x="24" y="114" class="terminal muted">
-    Embedded Firmware enthusiast from Vietnam.
+    Embedded Software enthusiast from Vietnam.
   </text>
 
   <!-- Line 4 -->
@@ -65,7 +65,7 @@
 
   <!-- Line 6 -->
   <text x="24" y="222" class="terminal output">
-    • Interested in Embedded Firmware Development
+    • Interested in Embedded Software Development
   </text>
 
   <!-- Line 7 -->
@@ -75,7 +75,7 @@
 
   <!-- Line 8 -->
   <text x="24" y="294" class="terminal output">
-    • Learning Bare-metal Programming, RTOS and Embedded Linux
+    • Learning Bare-metal and Register-level Programming, RTOS and Embedded Linux
   </text>
 
   <!-- Line 9 -->
@@ -96,7 +96,7 @@
 
   <!-- Line 12 -->
   <text x="24" y="438" class="terminal output">
-    • MCU/RTOS: STM32F103 (Cortex-M3, Bare-metal), ESP32, FreeRTOS
+    • MCU/RTOS: STM32, ESP32, FreeRTOS
   </text>
 
   <!-- Line 13 -->
