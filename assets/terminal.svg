@@ -104,9 +104,4 @@
     • Protocols: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa
   </text>
 
-  <!-- Line 14 -->
-  <text x="24" y="510" class="terminal output">
-    • IDEs: STM32CubeIDE, Keil Uvision, VS Code
-  </text>
-
 </svg>
