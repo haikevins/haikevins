@@ -1,9 +1,11 @@
 <svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="900"
-  height="500"
-  viewBox="0 0 900 500"
+xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="500"
+viewBox="0 0 900 500"
+
 >
+
   <style>
     .terminal {
       font-family: "Ubuntu Mono", "Cascadia Mono", "DejaVu Sans Mono", monospace;
@@ -29,79 +31,92 @@
     }
   </style>
 
-  <rect
-    width="900"
-    height="550"
-    rx="10"
-    fill="#300a24"
-  />
+<rect
+ width="900"
+ height="550"
+ rx="10"
+ fill="#300a24"
+/>
 
   <!-- Line 1 -->
+
   <text x="24" y="42" class="terminal">
     <tspan class="user">hai@ubuntu:</tspan>
     <tspan class="command">~$ whoami</tspan>
   </text>
 
   <!-- Line 2 -->
+
   <text x="24" y="78" class="terminal output">
     Nguyen Ngoc Hai
   </text>
 
   <!-- Line 3 -->
+
   <text x="24" y="114" class="terminal muted">
     Embedded Software enthusiast from Vietnam
   </text>
 
   <!-- Line 4 -->
+
   <text x="24" y="150" class="terminal">
     <tspan class="user">hai@ubuntu:</tspan>
     <tspan class="command">~$ cat about-me.txt</tspan>
   </text>
 
   <!-- Line 5 -->
+
   <text x="24" y="186" class="terminal output">
     • Studying at Posts and Telecommunications Institute of Technology — PTIT
   </text>
 
   <!-- Line 6 -->
+
   <text x="24" y="222" class="terminal output">
     • Interested in Embedded Software Development
   </text>
 
   <!-- Line 7 -->
+
   <text x="24" y="258" class="terminal output">
     • Working with STM32, ESP32, Raspberry Pi and Beagle Bone
   </text>
 
   <!-- Line 8 -->
+
   <text x="24" y="294" class="terminal output">
     • Learning Bare-metal and Register-level Programming, RTOS and Embedded Linux
   </text>
 
   <!-- Line 9 -->
+
   <text x="24" y="330" class="terminal output">
     • Developing embedded projects and improving C/C++ skills
   </text>
 
   <!-- Line 10 -->
+
   <text x="24" y="366" class="terminal">
     <tspan class="user">hai@ubuntu:</tspan>
     <tspan class="command">~$ cat technologies.txt</tspan>
   </text>
 
   <!-- Line 11 -->
+
   <text x="24" y="402" class="terminal output">
     • Programming: C, C++, Embedded C
   </text>
 
   <!-- Line 12 -->
+
   <text x="24" y="438" class="terminal output">
     • Embedded Platforms: STM32, ESP32, FreeRTOS
   </text>
 
   <!-- Line 13 -->
+
   <text x="24" y="474" class="terminal output">
-    • Protocol & Communication: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa
+    • Protocol &amp; Communication: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa
   </text>
 
 </svg>
