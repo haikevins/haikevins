@@ -91,17 +91,17 @@
 
   <!-- Line 11 -->
   <text x="24" y="402" class="terminal output">
-    • Languages: C/C++, Embedded C
+    • Programming: C, C++, Embedded C
   </text>
 
   <!-- Line 12 -->
   <text x="24" y="438" class="terminal output">
-    • MCU/RTOS: STM32, ESP32, FreeRTOS
+    • Embedded Platforms: STM32, ESP32, FreeRTOS
   </text>
 
   <!-- Line 13 -->
   <text x="24" y="474" class="terminal output">
-    • Protocols: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa
+    • Protocol & Communication: UART, I2C, SPI, TCP/IP, UDP, MQTT, LoRa
   </text>
 
 </svg>
