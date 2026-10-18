@@ -11,7 +11,7 @@
     .secondary { fill: #d9d5dc; }
     .label { fill: #c5bcd0; }
   </style>
-  <!-- Self-contained terminal: no remote fonts, images, scripts, or animation. -->
+  <!-- Self-contained terminal: no remote fonts, images, or scripts. -->
   <rect width="1040" height="780" rx="14" fill="#300a24"/>
   <path d="M14 0 H1026 Q1040 0 1040 14 V48 H0 V14 Q0 0 14 0Z" fill="#241b27"/>
   <path d="M0 48 H1040" stroke="#56445b" stroke-width="1"/>
@@ -40,5 +40,8 @@
     <text x="36" y="688"><tspan class="body">linux-voip-softphone/</tspan></text>
     <text x="36" y="736"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan></text>
   </g>
-  <rect x="195" y="717" width="11" height="23" rx="1" fill="#f3f2f1"/>
+  <!-- Blinking cursor: 500 ms visible, 500 ms hidden. Static fallback is visible. -->
+  <rect x="195" y="717" width="11" height="23" rx="1" fill="#f3f2f1">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
