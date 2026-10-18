@@ -31,7 +31,7 @@
     <text x="36" y="384"><tspan class="label">Languages</tspan><tspan x="195" class="body">C, C++</tspan></text>
     <text x="36" y="416"><tspan class="label">Platforms</tspan><tspan x="195" class="body">STM32, ESP32, ARM Cortex-M</tspan></text>
     <text x="36" y="448"><tspan class="label">Systems</tspan><tspan x="195" class="body">Bare-metal, RTOS, Embedded Linux</tspan></text>
-    <text x="36" y="480"><tspan class="label">Interfaces</tspan><tspan x="195" class="body">UART, SPI, I2C, TCP/IP, UDP</tspan></text>
+    <text x="36" y="480"><tspan class="label">Interfaces</tspan><tspan x="195" class="body">UART, SPI, I2C, TCP/IP, UDP, MQTT</tspan></text>
     <text x="36" y="512"><tspan class="label">Tools</tspan><tspan x="195" class="body">Git, GCC, GDB, OpenOCD, Make/CMake</tspan></text>
     <text x="36" y="560"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> ls ~/projects</tspan></text>
     <text x="36" y="592"><tspan class="body">hairtos/</tspan></text>
