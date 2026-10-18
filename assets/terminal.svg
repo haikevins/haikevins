@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="620" viewBox="0 0 1040 620" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="818" viewBox="0 0 1040 818" role="img" aria-labelledby="title description">
   <title id="title">Nguyen Ngoc Hai — Embedded Software and Firmware</title>
-  <desc id="description">Ubuntu-style terminal introducing a PTIT student working on embedded firmware and Linux systems, followed by technical areas and tools.</desc>
-
+  <desc id="description">Ubuntu-style terminal with whoami, about-me, technical skills, and a list of embedded software projects.</desc>
   <style>
     .mono { font-family: "Ubuntu Mono", "DejaVu Sans Mono", "Liberation Mono", monospace; font-size: 20px; }
     .bold { font-weight: 700; }
@@ -12,33 +11,33 @@
     .secondary { fill: #d9d5dc; }
     .label { fill: #c5bcd0; }
   </style>
-
   <!-- Self-contained terminal: no remote fonts, images, scripts, or animation. -->
-  <rect width="1040" height="620" rx="14" fill="#300a24"/>
+  <rect width="1040" height="818" rx="14" fill="#300a24"/>
   <path d="M14 0 H1026 Q1040 0 1040 14 V48 H0 V14 Q0 0 14 0Z" fill="#241b27"/>
   <path d="M0 48 H1040" stroke="#56445b" stroke-width="1"/>
   <circle cx="28" cy="24" r="8" fill="#e95420"/>
   <circle cx="54" cy="24" r="8" fill="#766978"/>
   <circle cx="80" cy="24" r="8" fill="#766978"/>
   <text x="520" y="31" text-anchor="middle" class="mono secondary" style="font-size:16px">hai@ubuntu: ~</text>
-
-  <g class="mono" xml:space="preserve">
-    <text x="36" y="100"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> whoami</tspan></text>
-    <text x="36" y="137" class="body bold">Nguyen Ngoc Hai</text>
-    <text x="36" y="173" class="secondary">Embedded Software / Firmware · Vietnam</text>
-
-    <text x="36" y="229"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> cat about-me.txt</tspan></text>
-    <text x="36" y="265" class="body">PTIT student building firmware and systems projects</text>
-    <text x="36" y="301" class="body">Focused on low-level programming, RTOS, and Embedded Linux</text>
-
-    <text x="36" y="357"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> cat skills.txt</tspan></text>
-    <text x="36" y="393"><tspan class="label">Languages   </tspan><tspan class="body">C, C++20</tspan></text>
-    <text x="36" y="429"><tspan class="label">Platforms   </tspan><tspan class="body">STM32, ESP32, ARM Cortex-M, Linux</tspan></text>
-    <text x="36" y="465"><tspan class="label">Firmware    </tspan><tspan class="body">Bare-metal, interrupts, RTOS, bootloaders</tspan></text>
-    <text x="36" y="501"><tspan class="label">Interfaces  </tspan><tspan class="body">UART, SPI, I2C, TCP/IP, SIP/RTP</tspan></text>
-    <text x="36" y="537"><tspan class="label">Tools       </tspan><tspan class="body">Git, CMake, GDB, OpenOCD</tspan></text>
-
-    <text x="36" y="583"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan></text>
+  <g class="mono" xml:space="preserve">    <text x="36" y="100"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> whoami</tspan></text>
+    <text x="36" y="138"><tspan class="body bold">Nguyen Ngoc Hai</tspan></text>
+    <text x="36" y="174"><tspan class="secondary">Embedded Software / Firmware · Vietnam</tspan></text>
+    <text x="36" y="228"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> cat about-me.txt</tspan></text>
+    <text x="36" y="266"><tspan class="body">• Student at PTIT</tspan></text>
+    <text x="36" y="302"><tspan class="body">• Interested in low-level and systems programming</tspan></text>
+    <text x="36" y="338"><tspan class="body">• Building embedded firmware and Linux projects</tspan></text>
+    <text x="36" y="390"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> cat technical-skills.txt</tspan></text>
+    <text x="36" y="426"><tspan class="label">Languages   </tspan><tspan class="body">C, C++</tspan></text>
+    <text x="36" y="462"><tspan class="label">Platforms   </tspan><tspan class="body">STM32, ESP32, ARM Cortex-M</tspan></text>
+    <text x="36" y="498"><tspan class="label">Systems     </tspan><tspan class="body">Bare-metal, RTOS, Embedded Linux</tspan></text>
+    <text x="36" y="534"><tspan class="label">Interfaces  </tspan><tspan class="body">UART, SPI, I2C, TCP/IP</tspan></text>
+    <text x="36" y="570"><tspan class="label">Tools       </tspan><tspan class="body">Git, CMake, GDB, OpenOCD</tspan></text>
+    <text x="36" y="622"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan><tspan class="typed"> ls ~/projects</tspan></text>
+    <text x="36" y="658"><tspan class="body">hairtos/</tspan></text>
+    <text x="36" y="694"><tspan class="body">secure-delta-ota-bootloader/</tspan></text>
+    <text x="36" y="730"><tspan class="body">mini-multimeter/</tspan></text>
+    <text x="36" y="766"><tspan class="body">linux-voip-softphone/</tspan></text>
+    <text x="36" y="801"><tspan class="prompt bold">hai@ubuntu</tspan><tspan class="secondary">:</tspan><tspan class="path bold">~</tspan><tspan class="secondary">$</tspan></text>
   </g>
-  <rect x="202" y="565" width="10" height="22" rx="1" fill="#f3f2f1"/>
+  <rect x="202" y="782" width="10" height="22" rx="1" fill="#f3f2f1"/>
 </svg>

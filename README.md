@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./assets/terminal.svg"
-    alt="Ubuntu-style terminal introduction: Nguyen Ngoc Hai, PTIT student focused on embedded software, firmware, and Embedded Linux."
+    alt="Ubuntu terminal profile of Nguyen Ngoc Hai, featuring technical skills and selected embedded projects."
     width="100%"
   />
 </p>
